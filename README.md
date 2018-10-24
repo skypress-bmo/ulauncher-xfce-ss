@@ -8,4 +8,4 @@ Currently supported options:
 
 
 
-![demo](https://user-images.githubusercontent.com/33674169/47446267-78e08080-d7ed-11e8-9b1c-83ee46dcd6e8.png)
+![picture1](https://user-images.githubusercontent.com/33674169/47446636-3e2b1800-d7ee-11e8-94a8-1c7c7880e758.png)
