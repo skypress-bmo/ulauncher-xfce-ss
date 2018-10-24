@@ -9,7 +9,7 @@ import os
 icon_path = 'images/icon.png'
 commands = {"area":         "gnome-screenshot -a -c",
             "fullscreen":   "gnome-screenshot -c",
-            "window":       "gnome-screenshot -w -c -delay=2"}
+            "window":       "gnome-screenshot -w -c --delay=2"}
 
 class SnipExtension(Extension):
 
