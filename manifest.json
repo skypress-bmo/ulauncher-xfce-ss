@@ -1,0 +1,20 @@
+{
+  "manifest_version": "2",
+  "api_version": "1",
+  "name": "Snip extension",
+  "description": "Conveniently snip a picture on Ubuntu",
+  "developer_name": "Zhuokun Yang",
+  "icon": "images/icon.png",
+  "options": {
+    "query_debounce": 0.1
+  },
+  "preferences": [
+    {
+      "id": "snip_kw",
+      "type": "keyword",
+      "name": "Snip",
+      "description": "keyword + space + [options]",
+      "default_value": "snip"
+    }
+  ]
+}
