@@ -1,6 +1,5 @@
 # ulauncher-snip
 
-# ulauncher-snipping
 Gnome snipping is now easy.  
 Currently supported options:
 - snip an area
