@@ -7,9 +7,9 @@ from ulauncher.api.shared.action.RunScriptAction import RunScriptAction
 import os
 
 icon_path = 'images/icon.png'
-commands = {"area":         "gnome-screenshot -a -c",
-            "fullscreen":   "gnome-screenshot -c",
-            "window":       "gnome-screenshot -w -c --delay=2"}
+commands = {"area":         "xfce4-screenshooter -r -c",
+            "fullscreen":   "xfce4-screenshooter -c -f",
+            "window":       "xfce4-screenshooter -w -c -d 2"}
 
 class SnipExtension(Extension):
 
