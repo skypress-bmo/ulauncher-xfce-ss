@@ -1,8 +1,8 @@
 {
   "manifest_version": "2",
   "api_version": "1",
-  "name": "Snip extension",
-  "description": "Conveniently snip a picture on Ubuntu",
+  "name": "Ss extension",
+  "description": "Conveniently ss a picture on Xfce4",
   "developer_name": "Zhuokun Yang",
   "icon": "images/icon.png",
   "options": {
@@ -10,11 +10,11 @@
   },
   "preferences": [
     {
-      "id": "snip_kw",
+      "id": "ss_xfce4_kw",
       "type": "keyword",
-      "name": "Snip",
+      "name": "Ss",
       "description": "keyword + space + [options]",
-      "default_value": "snip"
+      "default_value": "ss"
     }
   ]
 }
